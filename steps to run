@@ -1,4 +1,6 @@
-ThreatMind is an AI-powered insider threat detection platform that continuously monitors user behavior across enterprise systems — including file access, login patterns, email activity, and application usage. Using unsupervised ML and LSTM-based anomaly detection, it builds a dynamic behavioral baseline for each user and flags deviations in real time. The system features an explainable AI (XAI) dashboard that helps security teams understand why a user was flagged, reducing false positives and enabling faster response.
+ThreatMind is an AI-powered insider threat detection platform that continuously monitors user behavior across enterprise systems — including file access, login patterns, email activity, and application usage. 
+Using unsupervised ML and LSTM-based anomaly detection, it builds a dynamic behavioral baseline for each user and flags deviations in real time. 
+The system features an explainable AI (XAI) dashboard that helps security teams understand why a user was flagged, reducing false positives and enabling faster response.
 # Open a NEW terminal tab, activate venv, then run:
 source venv/bin/activate
 python3 dashboard.py
